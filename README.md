@@ -8,17 +8,17 @@
 
 ---
 
-I am currently studying **Software Development at 42 Heilbronn**, with a growing focus on **Python development** and a foundation in **C programming**.
+I'm currently studying **Software Development at 42 Heilbronn**, building a strong foundation in **C, Python and modern web technologies**.
 
-In addition to my studies, I am building my own projects:
+Alongside my studies, I develop my own digital projects and explore the intersection of **software, products and entrepreneurship**.
 
-**LF DIGITAL AGENCY** → Digital business & technology.
+**LF DIGITAL AGENCY** → Digital solutions for modern businesses.
 
-**iSYNQ** → Building a new digital platform around music.
+**iSYNQ** → Building better digital experiences for events.
 
-For my own projects, I work with technologies including **TypeScript, React, Next.js, Tailwind CSS, Supabase and Git/GitHub**.
+For my projects, I work with technologies including **C, Python, TypeScript, React, Next.js, Tailwind CSS, Supabase and Git/GitHub**.
 
-I enjoy combining **software development, entrepreneurship and creative ideas** to build practical digital products.
+I enjoy turning ideas into practical digital products while continuously expanding my technical skills.
 
 ---
 
