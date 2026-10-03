@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Git</title>
+  <path fill="#F05032" d="M59 29 35 5a4 4 0 0 0-6 0L23 11l9 9a7 7 0 0 1 8 9l9 9 10-10a4 4 0 0 0 0-6Z"/>
+  <path fill="#F05032" d="m20 14-15 15a4 4 0 0 0 0 6l24 24a4 4 0 0 0 6 0l7-7-10-10a7 7 0 0 1-8-9l-8-8a7 7 0 0 1 4-11Z"/>
+  <path fill="#fff" d="M22 26a4 4 0 1 1 0 8 4 4 0 0 1 0-8Zm11 11a4 4 0 1 1 0 8 4 4 0 0 1 0-8Zm1-18v18h-3V19h3Z"/>
+</svg>
