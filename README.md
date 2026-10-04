@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" alt="Night-time developer workspace with an aurora, a developer-musician with tied-back hair, an acoustic guitar, laptop, plants and an elephant mascot." width="100%">
-</p>
+
 
 ## About me
 
