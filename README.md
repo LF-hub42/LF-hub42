@@ -8,7 +8,7 @@ Currently studying **Software Development at 42 Heilbronn**, with a growing focu
 
 ---
 
-## 🚀 What I'm building
+## 💻 What I'm building
 
 ### LF DIGITAL AGENCY
 Digital business & technology.
