@@ -1,23 +1,29 @@
-# Hi, I'm Eleftherios 👋
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│               Hi, I'm Eleftherios 👋                     │
+│                                                          │
+│          SOFTWARE DEVELOPER @ 42 HEILBRONN               │
+│        Digital Entrepreneur • Musician                    │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 
-### Software Developer @ 42 Heilbronn | Digital Entrepreneur | Musician
+                    ABOUT ME
 
-I am currently studying **Software Development at 42 Heilbronn**, with a growing focus on **Python development**, alongside my foundation in **C programming**.
+      Building software, digital products and ideas...
 
-In addition to my studies, I am building my own projects:
+                    TECH STACK
 
-**LF DIGITAL AGENCY** → Digital business & technology.
+ Python   C   TypeScript   React   Next.js   Supabase   Git
 
-**iSYNQ** → Building a new digital platform around music.
+                 CURRENT PROJECTS
 
-For my own projects, I work with technologies including **TypeScript, React, Next.js, Tailwind CSS, Supabase and Git/GitHub**.
+ LF DIGITAL AGENCY                     iSYNQ
+ Digital business & technology.        Digital platform around music.
 
-I enjoy combining **software development, entrepreneurship and creative ideas** to build practical digital products.
+                  42 HEILBRONN
 
----
+        → Explore my 42 Core Curriculum projects
 
-### 👋 Thanks for stopping by!
+────────────────────────────────────────────────────────────
 
-Feel free to explore my projects and follow along as I continue building, learning and creating.
-
-**Somewhere between code, Git commits and guitar strings. 🎸**
+     Somewhere between code, Git commits and guitar strings. 🎸
